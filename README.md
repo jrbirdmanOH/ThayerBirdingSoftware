@@ -1,7 +1,7 @@
 # ThayerBirdingSoftware
 Guide To Birds of North America v7
 
-This is the source code for GBNA, without the media (images, video, sound files, etc).
+This is the source code for GBNA, without the copyrighted media (images, video, sound files, etc).
 
 Feel free to fork and enhance.  If you'd like to submit a Pull Request to add a new feature, feel free.  I'm not sure when we'll get to it but we'll take a look within a month or so.
 
